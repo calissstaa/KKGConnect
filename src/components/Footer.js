@@ -31,6 +31,16 @@ export default function Footer() {
           </ul>
         </div>
         <div className="footer-col">
+          <h4>Kategori HIMA</h4>
+          <ul>
+            <li><Link href="/hima?fak=ilmu komunikasi">🌍 Ilmu Komunikasi</Link></li>
+            <li><Link href="/hima?fak=administrasi bisnis">💼 Administrasi Bisnis</Link></li>
+            <li><Link href="/hima?fak=akuntansi">⚖️ Akuntansi</Link></li>
+            <li><Link href="/hima?fak=manajemen">📊 Manajemen</Link></li>
+            <li><Link href="/hima?fak=siti">💻 SITI</Link></li>
+          </ul>
+        </div>
+        <div className="footer-col">
           <h4>Kategori UKM</h4>
           <ul>
             <li><Link href="/ukm?cat=olahraga">⚽ Olahraga</Link></li>
