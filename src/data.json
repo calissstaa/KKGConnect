@@ -1,0 +1,974 @@
+{
+    "ukm": [
+        {
+            "name": "Badminton",
+            "category": "Olahraga",
+            "image": "images\/logo-badmin.png",
+            "cover_image": "images\/badminton-cover.jpeg",
+            "description": "UKM Badminton hadir sebagai wadah strategis bagi mahasiswa Kwik Kian Gie untuk menyalurkan minat dan bakat di bidang non-akademis, sekaligus menjaga kesehatan jasmani, rohani, dan mempererat silaturahmi. Mengingat bulutangkis merupakan olahraga kebanggaan yang kerap mengharumkan nama Indonesia, UKM ini berkomitmen menjadi media bagi mahasiswa untuk mengasah potensi dan memacu prestasi guna membawa nama baik kampus melalui kemampuan olahraga yang mereka miliki.",
+            "vision": "UKM Badminton dapat menjadi wadah untuk membangun anggota mengembangkan sifat bekerja sama dalam tm, sportivitas, disiplin, dapat mengembangkan bakat dan prestasi dalam bidang non akademis, mengharumkan nama kampus Institut Kwik Kian Gie. ",
+            "mission": [
+                "Menumbuhkan solidaritas tim.",
+                "Meningkatkan kualitas dan kuantitas permainan dalam Latihan.",
+                "Membangun mental anggota tim."
+            ],
+            "events": [
+                {
+                    "title": "Badminton External Cup 2026",
+                    "date": "3 Juni 2026",
+                    "type": "EKsternal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Internal Cup 2026",
+                    "date": "25 Februari 2026",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "IBIKERS Badminton Internal Cup 2025",
+                    "date": "21 Mei 2025",
+                    "type": "Lomba",
+                    "image": "images\/badminton-event2.jpeg"
+                },
+                {
+                    "title": "UTA 45 JKT vs IBIKKG Friendly Match",
+                    "date": "6 Desember 2024",
+                    "type": "Friendly Match",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Jennifer",
+            "schedule": "Rabu, 13.00 - 15.00 WIB",
+            "location": "Replay Sunter",
+            "instagram": "ukmbadmintonibikkg",
+            "members": 28,
+            "link": "#"
+        },
+        {
+            "name": "Futsal",
+            "category": "Olahraga",
+            "image": "images/logo-futsal.png",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "UKM Bola hadir sebagai wadah bagi mahasiswa Kwik Kian Gie untuk menyeimbangkan aspek akademik dengan pengembangan bakat non-akademik melalui olahraga futsal dan sepak bola. Selain bertujuan menjaga kebugaran fisik dan memupuk nilai sportivitas serta kerja sama tim, UKM ini berkomitmen memfasilitasi mahasiswa untuk mengasah kemampuan teknis dan meraih prestasi di bidang yang sangat populer di Indonesia ini. Dengan semangat kekeluargaan yang erat, UKM Bola menjadi ruang bagi setiap individu untuk berkontribusi mengharumkan nama almamater sekaligus memperluas jaringan pertemanan melalui minat dan bakat unik mereka.",
+            "vision": "Menjadikan sarana dan prasarana mahasiswa Kwik Kian Gie untuk berkumpul dan bermain juga untuk mengenal satu sama lain baik junior maupun senior.",
+            "mission": [
+                "Mengupayakan sumber daya manusia(mahasiswa) menjadi pribadi yang mau bekerjasama dengan satu sama lain",
+                "Menyelenggarakan kegiatan baik rutin maupun non-rutin(acara cup di kampus) untuk mengembangkan persaudaraan, sportivitas, dan kenangan selama berada di kampus Kwik Kian Gie."
+            ],
+            "events": [
+                {
+                    "title": "TROFEO 25 IFC Bola Tournament",
+                    "date": "9 April 2025",
+                    "type": "Lomba",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "NFCS Jakarta",
+                    "date": "21 - 22 Februari 2025",
+                    "type": "Pendaftaran",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "Futsal Series",
+                    "date": "21 Februari 2025",
+                    "type": "Lomba",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "IBIKKG vs Universitas Tarumanegara Friendly Match",
+                    "date": "1 September 2024",
+                    "type": "Friendly Match",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Ignatius Stanislaus",
+            "schedule": "Rabu, 16.00 - 19.00 WIB",
+            "location": "Lapangan Kampus",
+            "instagram": "ifcbola",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Basket",
+            "category": "Olahraga",
+            "image": "images/logo-basket.png",
+            "cover_image": "https:\/\/images.unsplash.com\/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1600&q=80",
+            "description": "UKM Basket hadir sebagai wadah strategis bagi mahasiswa Kwik Kian Gie untuk menyeimbangkan ketajaman intelektual dengan ketangkasan fisik melalui olahraga yang dinamis dan penuh strategi. Selain menjadi sarana melepas penat dan mengasah talenta, UKM ini berkomitmen membentuk mentalitas tangguh, disiplin, dan semangat kerja sama tim yang berlandaskan nilai persaudaraan. Dengan atmosfer kompetisi yang sehat, UKM Basket menjadi jembatan bagi mahasiswa untuk mengeksplorasi potensi non-akademik mereka sekaligus berjuang meraih prestasi nyata demi mengharumkan nama almamater di level yang lebih tinggi.",
+            "vision": "?",
+            "mission": [
+                "?",
+                "?",
+                "?"
+            ],
+            "events": [
+                {
+                    "title": "KSB vs PAJ Game Time",
+                    "date": "15 Januari 2026",
+                    "type": "Game",
+                    "image": "images\/badminton-event1.jpg"
+                }
+            ],
+            "leader": "Jonathan Leo",
+            "schedule": "Setiap Jumat",
+            "location": "Lapangan Basket Kampus",
+            "instagram": "ksbbasketball",
+            "members": 16,
+            "link": "#"
+        },
+        {
+            "name": "E-Sport",
+            "category": "Olahraga",
+            "image": "https:\/\/images.unsplash.com\/photo-1552820728-8b83bb6b773f?auto=format&fit=crop&w=800&q=80",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "UKM Esport hadir sebagai wadah strategis bagi mahasiswa Kwik Kian Gie untuk menyelaraskan ketangkasan kognitif dengan teknologi digital melalui pengelolaan minat olahraga elektronik yang profesional. Selain membangun kedisiplinan dan koordinasi tim yang presisi, UKM ini berkomitmen mengubah hobi menjadi prestasi nyata di tengah pesatnya perkembangan industri kreatif global. Dengan menjunjung tinggi sportivitas dan nilai Pancasila, organisasi ini menjadi jembatan bagi mahasiswa untuk mengasah strategi dan talenta digital mereka guna mengharumkan nama almamater di berbagai turnamen kompetitif yang relevan dengan perkembangan zaman.",
+            "vision": "Menjadi wadah bagi mahasiswa Kwik Kian Gie yang ingin berkembang di dunia Esports.",
+            "mission": [
+                "Menjadikan mahasiswa/i lebih peka terhadap perkembangan teknologi khususnya di bidang esports."
+            ],
+            "events": [
+                {
+                    "title": "Valorant 2v2 Internal Campus Skirmish",
+                    "date": "7 Maret 2026",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Nemesis Cup 2025",
+                    "date": "8 - 10 Desember 2025",
+                    "type": "Lomba",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "Welcome Party",
+                    "date": "1 Oktober 2025",
+                    "type": "Welcome Party",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Honor of Kings Campus Attack",
+                    "date": "15 Januari 2025",
+                    "type": "Lomba",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Sergie Aprilius",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "ksb_esports",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Band",
+            "category": "Minat dan Bakat",
+            "image": "https:\/\/images.unsplash.com\/photo-1605340406960-f5b496c38b3d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "UKM Band hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyelaraskan kesibukan akademik dengan pengembangan kreativitas di bidang seni musik. Selain berfungsi sebagai sarana mengasah kepekaan rasa dan mempererat silaturahmi, UKM ini berkomitmen membentuk karakter mahasiswa yang harmonis melalui ekspresi musikal yang terorganisir. Dengan memandang musik sebagai bahasa universal untuk menyampaikan pesan positif, UKM Band memfasilitasi mahasiswa dalam mengolah potensi estetika mereka guna menciptakan karya berkualitas dan meraih prestasi yang dapat mengharumkan nama almamater.",
+            "vision": " Menjadi organisasi yang terstruktur rapi dan solid serta menjadi yang terdepan di bidang musik dan mampu menampung serta menyalurkan minat dan bakat mahasiswa IBI Kwik Kian Gie dengan tujuan untuk mengembangkan kreativitas mahasiswa di bidang musik. ",
+            "mission": [
+                "Mensosialisasikan tata tertib dan peraturan yang dibuat kampus untuk UKM",
+                "Menampung dan menyalurkan minat bakat mahasiswa di bidang musik.",
+                "Mengembangkan potensi dan kreativitas mahasiswa di bidang musik",
+                "Ikut serta dalam event atau mengadakan event yang mampu meningkatkan kualitas musik mahasiswa",
+                "Menyediakan fasilitas yang layak untuk mahasiswa di bidang musik",
+                "Mempererat hubungan antar anggota agar tercipta organisasi yang kompak dan solid"
+            ],
+            "events": [
+                {
+                    "title": "THE CHRONICLES OF A MUSICIAN S3 : From Passion to Profession",
+                    "date": "20 Mei 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Schoolyard Gigs",
+                    "date": "6 Februari 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "UKM Band Performance at UKM Maleakhi\u2019s Christmas Event",
+                    "date": "7 Januari 2026",
+                    "type": "Perform",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "Makrab Pengurusan",
+                    "date": "2025\/2026",
+                    "type": "Malam Keakraban",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Brennan Cheng",
+            "schedule": "Sebulan sekali",
+            "location": "Di luar Kampus",
+            "instagram": "ukmbandkkg",
+            "members": 25,
+            "link": "#"
+        },
+        {
+            "name": "Dance",
+            "category": "Minat dan Bakat",
+            "image": "https:\/\/images.unsplash.com\/photo-1595566125594-bc6d3487f777?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "UKM Dance hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyelaraskan aktualisasi diri antara bidang akademik dan seni pertunjukan melalui pengembangan minat di dunia gerak. Selain bertujuan membentuk pribadi yang disiplin dan sehat secara fisik, UKM ini berkomitmen mengasah kreativitas dan rasa percaya diri mahasiswa dalam menciptakan koreografi yang inovatif. Dengan semangat kekeluargaan dan profesionalisme, UKM Dance menjadi media utama bagi mahasiswa untuk mengeksplorasi bakat artistik mereka sekaligus berjuang mengharumkan nama almamater melalui prestasi membanggakan di berbagai ajang kompetisi tari.",
+            "vision": " Menjadi wadah bagi Mahasiswa\/I Kwik Kian Gie School of Business dalam bidang Modern Dance. ",
+            "mission": [
+                "Meningkatkan kreativitas individu dalam mengasah bakatnya.",
+                "Menciptakan individu-individu dengan kepercayaan diri yang tinggi.",
+                "Mengasah kemampuan bekerja sama dalam sebuah tim.",
+                "Mengasah kemampuan untuk berorganisasi."
+            ],
+            "events": [
+                {
+                    "title": "PKKMB IBIKKG 2025",
+                    "date": "11 - 12 September 2025",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "PKKMB IBIKKG 2024",
+                    "date": "2 - 4 September 2024",
+                    "type": "Internal",
+                    "image": "images\/event2-bola.png"
+                }
+            ],
+            "leader": "Kezya Florence Anastsya",
+            "schedule": "Rabu & Jumat",
+            "location": "Gedung Kampus",
+            "instagram": "ksb_dancecrew",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Bimover",
+            "category": "Minat dan Bakat",
+            "image": "https:\/\/images.unsplash.com\/photo-1726091983472-a7da2540c492?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "BIMOVER atau IBIKKG Mountain Rover hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyalurkan minat pada olahraga alam bebas dan aktivitas luar ruangan yang menantang. Sebagai organisasi tertua di kampus yang berdiri sejak 1989, BIMOVER tidak hanya berfokus pada ketahanan fisik dan bakat non-akademis, tetapi juga berkomitmen membentuk karakter mahasiswa yang tangguh, mandiri, dan peduli lingkungan melalui disiplin petualangan yang profesional. Dengan menjunjung tinggi nilai historis dan semangat persaudaraan, organisasi ini menjadi media bagi mahasiswa untuk mengasah kepemimpinan serta mengharumkan nama almamater melalui dedikasi nyata di bidang kepencintaalaman.",
+            "vision": "?",
+            "mission": [
+                "?"
+            ],
+            "events": [
+                {
+                    "title": "Camp 2 XXXVI",
+                    "date": "24 - 30 November 2025",
+                    "type": "Camp",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Camp 1 XXXVI",
+                    "date": "10 - 12 Oktober 2025",
+                    "type": "Camp",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "Fun Climbing",
+                    "date": "19 September 2025",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Welcome Party",
+                    "date": "19 September 2025",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Camp 2 XXXV",
+                    "date": "18 - 24 November 2024",
+                    "type": "Camp",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Camp 1 XXXV",
+                    "date": "14-15 September 2024",
+                    "type": "Camp",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Fun Climbing",
+                    "date": "6 September 2024",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "Welcome Party",
+                    "date": "6 September 2024",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.jpg"
+                }
+            ],
+            "leader": "Marco Marcelino",
+            "schedule": "?",
+            "location": "Gedung Kampus",
+            "instagram": "bimover_89",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "FOBI",
+            "category": "Minat dan Bakat",
+            "image": "https:\/\/plus.unsplash.com\/premium_photo-1674389991678-0836ca77c7f7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/futsal-cover.jpg",
+            "description": "UKM FOBI hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk mengeksplorasi bakat di bidang seni visual, meliputi fotografi, videografi, hingga modelling. Sejak berdiri pada tahun 1992, organisasi ini berkomitmen membentuk pribadi yang kreatif, jeli, dan tekun melalui kolaborasi karya yang mampu menyuarakan pesan tanpa kata di era komunikasi modern. Dengan menjunjung tinggi nilai historis dan profesionalisme, UKM FOBI menjadi media bagi mahasiswa untuk mengubah hobi menjadi kompetensi bernilai tinggi serta prestasi nyata yang mampu mengharumkan nama almamater melalui karya visual yang inspiratif.",
+            "vision": "Menjadi Unit Kegiatan Mahasiswa (UKM) sebagai tempat sarana untuk menyalurkan hobby-hobby, potensi-potensi generasi muda dalam dunia Photography, Videography, dan Modelling.",
+            "mission": [
+                "Mewadahi Mahasiswa Kwik Kian Gie School of Business yang memiliki bakat, serta keinginan untuk mengembangkan bakat ataupun hobby dalam dunia Fotografi, Videografi , dan Modelling.",
+                "Turut berperan aktif dalam mengikuti perkembangan dunia Fotografi, Videografi, dan Modelling.",
+                "Menjadi Sarana yang akan menghasilkan Mahasiswa yang memiliki skill tambahan dalam bidang Keorganisasian, dalam bidang Fotografi, Videografi, ataupun Modelling."
+            ],
+            "events": [
+                {
+                    "title": "K-Mall: Kall Through The Lens: A FOBI Perspective",
+                    "date": "4 April 2026",
+                    "type": "Eksternal",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "FOBI Birthday Party 2025/2026",
+                    "date": "?",
+                    "type": "Internal",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "FOBI Goes To Monas",
+                    "date": "28 Februari 2026",
+                    "type": "Eksternal",
+                    "image": "images\/event2-bola.png"
+                },
+                {
+                    "title": "Kampung Nelayan Cilincing",
+                    "date": "13 Februari 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "FOBI Family Hunting Phone Edition",
+                    "date": "14 Januari 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.jpg"
+                },
+                {
+                    "title": "FOBI Goes To Lapangan Banteng",
+                    "date": "12 Desember 2025",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.jpg"
+                }
+            ],
+            "leader": "Aditya Prasetyo",
+            "schedule": "?",
+            "location": "Di luar Kampus",
+            "instagram": "fobifamily",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Finance Group of IBIKKG - FGI",
+            "category": "Penalaran dan Kreativitas",
+            "image": "images/logo-fgi.jpg",
+            "cover_image": "images/fgi-cover.jpeg",
+            "description": "UKM FGI hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyelaraskan pemahaman akademis dengan kompetensi praktis di sektor literasi dan praktik keuangan. Sejak berdiri pada tahun 1998, organisasi ini berkomitmen membentuk pribadi yang disiplin dan analitis melalui struktur profesional yang mencakup divisi pasar modal hingga kemitraan strategis dengan institusi terkemuka. Dengan rekam jejak yang panjang, UKM FGI menjadi media utama bagi mahasiswa untuk mengasah integritas serta kemampuan profesional guna meraih prestasi membanggakan yang mampu mengharumkan nama almamater di kancah nasional.",
+            "vision": "Menjadi rumah belajar yang nyaman dan berlandaskan kekeluargaan sebagai wadah pengembangan diri serta peningkatan pengetahuan dan kompetensi di bidang keuangan.",
+            "mission": [
+                "Inkuisitif",
+                "Partisipatif",
+                "Kolaboratif",
+                "Kekeluargaan"
+            ],
+            "events": [
+                {
+                    "title": "FGI at Web3 Week Asia 2025",
+                    "date": "21 November 2025",
+                    "type": "Eksternal",
+                    "image": "images\/fgi-event1.png"
+                },
+                {
+                    "title": "FGI at IDBW 2025",
+                    "date": "11 Desember 2025",
+                    "type": "Eksternal",
+                    "image": "images\/fgi-event2.png"
+                },
+                {
+                    "title": "Christmas with FGI",
+                    "date": "9 Januari 2025",
+                    "type": "Internal",
+                    "image": "images\/fgi-event3.png"
+                },
+                {
+                    "title": "Good Funding for Great Investing",
+                    "date": "18 Juni 2025",
+                    "type": "Seminar",
+                    "image": "images\/fgi-event4.png"
+                },
+                {
+                    "title": "Smart Investment for Your Future",
+                    "date": "18 Desember 2024",
+                    "type": "Seminar",
+                    "image": "images\/fgi-event5.png"
+                }
+            ],
+            "leader": "Sanny",
+            "schedule": "1 Bulan sekali",
+            "location": "Gedung Kampus & Luar Kampus",
+            "instagram": "fgi_ksb",
+            "members": 47,
+            "link": "#"
+        },
+        {
+            "name": "Kwik Kian Gie Accounting Forum - KAF",
+            "category": "Penalaran dan Kreativitas",
+            "image": "https:\/\/plus.unsplash.com\/premium_photo-1661761077411-d50cba031848?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": "UKM KAF hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyelaraskan minat dan bakat di bidang akuntansi melalui berbagai program inovatif seperti kompetisi perpajakan hingga kunjungan industri. Dengan berlandaskan semangat kekeluargaan yang kental, organisasi ini berkomitmen membentuk pribadi yang kreatif, solid, dan profesional guna menciptakan sinergi yang berkualitas di lingkungan kampus. Melalui penguasaan kompetensi akuntansi yang mendalam, UKM KAF menjadi media utama bagi mahasiswa untuk berani menuangkan ide dan meraih prestasi nyata demi mengharumkan nama almamater.",
+            "vision": "Menjadikan organisasi KAF menjadi lebih aktif, kreatif dan berkualitas dalam setiap kegiatannya dengan mempertahankan, meningkatkan, memperhatikan hasil yang memuaskan di periode sebelumnya, serta melahirkan anggota-anggota yang mempunyai sikap leadership di masa depan mereka dan membentuk kepedulian terhadap sesama anggota.",
+            "mission": [
+                "Meningkatkan solidaritas dan kreativitas setiap anggota UKM KAF.",
+                "Membangun sifat leadership dan mengembangkan ide setiap anggota UKM KAF",
+                "Mempertahankan, meningkatkan dan memperhatikan kegiatan-kegiatan eksternal dan internal yang sudah berjalan sebelumnya ataupun yang akan datang"
+            ],
+            "events": [
+                {
+                    "title": "KWINATION 2026: Preparing Future LeadersThrough The Power Of Accounting and Accountability",
+                    "date": "21-22 September 2026",
+                    "type": "",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Open Recruitment for External Kwination KAF 2026",
+                    "date": "2-4 April 2026",
+                    "type": "",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Company Insight KAF x KPMG Indonesia",
+                    "date": "27 Februari 2026",
+                    "type": "",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "KAITALK 2025",
+                    "date": "9 Oktober 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Kaizen Biz Case Competition 2025",
+                    "date": "18 May - 10 September 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "KWINATION 2024: Awaken Your Accounting Spirits and Thrive to The Best",
+                    "date": "19 - 21 August 2024",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Michael Nicholas Chandra",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "kaf.ibikkg",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Institut Bisnis dan Informatika Kwik Kian Gie Marketing Society - IMS",
+            "category": "Penalaran dan Kreativitas",
+            "image": "https:\/\/images.unsplash.com\/photo-1587614313085-5da51cebd8ac?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": "IMS (IBIKKG Marketing Society) hadir sebagai wadah strategis bagi mahasiswa Institut Bisnis dan Informatika Kwik Kian Gie untuk mendalami dunia pemasaran secara mendalam. Sejak berdiri pada 8 Agustus 1998, UKM pendidikan ini berkomitmen menjadi sarana pengembangan minat dan bakat mahasiswa melalui program yang mensinergikan teori dengan praktek nyata di lapangan. Sebagai satu-satunya UKM yang bekerja sama dengan pihak marketing kampus dalam kegiatan Edufair, IMS memberikan peluang eksklusif bagi anggotanya untuk meraih pengalaman profesional sekaligus keuntungan material, menjadikannya pilihan tepat bagi mereka yang ingin membangun karir di industri pemasaran.",
+            "vision": "?",
+            "mission": [
+                "?",
+                "?",
+                "?"
+            ],
+            "events": [
+                {
+                    "title": "Malam Keakraban: Heartfelt Connection",
+                    "date": "12 Februari 2025",
+                    "type": "Malam Keakraban",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Artificial Intelligence and Digital Marketing : Become a Better Future",
+                    "date": "22 October 2024",
+                    "type": "",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Talkshow tentang Digital Marketing: Creartive Marketing in the Digital Era",
+                    "date": "20 Mei 2024",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Josua Nikodemus Ambarita",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "ims_98",
+            "members": 34,
+            "link": "#"
+        },
+        {
+            "name": "Kerohanian Islam - Rohis",
+            "category": "Kerohanian, Kemasyarakatan dan Sosial",
+            "image": "https:\/\/images.unsplash.com\/photo-1657468216749-1e7893fb87e2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": "Rohis Al-Ashri hadir sebagai wadah strategis bagi mahasiswa muslim IBI Kwik Kian Gie untuk menyelaraskan kegiatan keagamaan dengan pengembangan bakat yang kreatif demi memajukan syiar Islam. Organisasi ini berkomitmen membangun generasi muda yang inovatif dengan menyediakan ruang kolaborasi yang positif guna memperdalam nilai-nilai spiritual sekaligus mengasah potensi diri. Melalui berbagai aktivitas keagamaan yang dinamis, Rohis Al-Ashri menjadi sarana utama bagi mahasiswa untuk berkontribusi nyata bagi agama sekaligus mempererat tali persaudaraan di lingkungan kampus.",
+            "vision": "Mewujudkan generasi muda yang kreatif, beriman, dan berilmu. Serta meningkatkan ukhuwah sesama mahasiswa\/I muslim Kampus IBI KKG",
+            "mission": [
+                "Menanamkan kepribadian Islami yang kreatif.",
+                "Menciptakan suasana SAHABAT (Santai, Hangat, Berbobot, dan Akurat)",
+                "Bersama-sama menjalankan tugas dengan ikhlas dan bertanggung jawab",
+                "Dapat memahami Islam secara benar dan dapat diamalkan di lingkungan masyarakat",
+                "Mempererat tali persaudaraan antar umat manusia"
+            ],
+            "events": [
+                {
+                    "title": "Belajar Agama Bareng Rohis",
+                    "date": "24 April 2026",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Rohis Sehat Badminton",
+                    "date": "15 April 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Sahur On The Panti Ramadan 1447 h",
+                    "date": "7 Maret 2026",
+                    "type": "",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Gema Ramadhan 1447 Hijriah ",
+                    "date": "28 Februari 2026",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Tafakur Alam: Bertumbuh di Alam Bersama Rohis Al Ashri",
+                    "date": "20 - 22 Desember 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Malam Keakraban: From Strangers to Soulmates",
+                    "date": "14 - 16 Juli 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "BARIS: Belajar Agama Bareng Rohis",
+                    "date": "20 Juni 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "ROPIKSA: Rohis Piknik Santai di GBK",
+                    "date": "14 Juni 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Rohis Futsal",
+                    "date": "13 Juni 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Rohis Sehat Fun Match Badminton",
+                    "date": "18 Maret 2025",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Sangjao Tinodungan",
+            "schedule": "",
+            "location": "",
+            "instagram": "rohisalashri_kkg",
+            "members": 18,
+            "link": "#"
+        },
+        {
+            "name": "Kerohanian Buddha - Dharma Artha",
+            "category": "Kerohanian, Kemasyarakatan dan Sosial",
+            "image": "https:\/\/images.unsplash.com\/photo-1658891389224-43441d0ea8ac?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": " Dharma-Artha hadir sebagai wadah organisasi mandiri bagi keluarga mahasiswa Buddhis di IBI Kwik Kian Gie yang bersifat universal tanpa bernaung pada aliran atau sekte tertentu. Berdiri sejak 18 Maret 1991, UKM ini berkomitmen menjadi ruang bagi mahasiswa untuk memperdalam nilai-nilai spiritual dan mempererat tali persaudaraan dalam lingkungan kampus yang inklusif. Dengan sejarah panjang yang bermula dari nama Keluarga Mahasiswa Buddhis (KMB), Dharma-Artha terus berupaya menjadi sarana aktualisasi diri yang membantu mahasiswa membangun karakter luhur serta menjaga harmoni melalui kegiatan-kegiatan keagamaan yang edukatif dan non-politik",
+            "vision": "Memfasilitasi setiap anggota Dharma-Artha dalam upaya untuk mengembangkan dan mengaplikasikan Buddha Dharma dalam kehidupan sehari-hari.",
+            "mission": [
+                "Memperkuat pemahaman dasar Buddha Dharma bagi anggota Dharma-Artha",
+                "Membangun hubungan persaudaraan antar anggota Dharma-Artha."
+            ],
+            "events": [
+                {
+                    "title": "Dharma Teaching & Empowerment",
+                    "date": "8 - 11 Januari 2026",
+                    "type": "",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Webinar Nasional Asadha Puja 2024 KBMB Untan",
+                    "date": "9 Agustus 2024",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Kupas Tuntas Dunia Mistis: Merdekakan diri dari pandangan salah!",
+                    "date": "10 Agustus 2024",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Dhammatalk 2024: Nurturing Self-Control for Optimal Mental Wellness",
+                    "date": "11 Januari 2024",
+                    "type": "Seminar",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Devi Chyntia",
+            "schedule": "Kebaktian rutin",
+            "location": "Gedung Kampus",
+            "instagram": "dharmaarthaksb",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "Kerohanian Protestan - PD Maleakhi",
+            "category": "Kerohanian, Kemasyarakatan dan Sosial",
+            "image": "https:\/\/images.unsplash.com\/photo-1602022578288-5824e225738f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": "Persekutuan Doa Maleakhi hadir sebagai wadah strategis bagi mahasiswa Kristen di IBI Kwik Kian Gie untuk membangun persekutuan yang harmonis dan menyatukan visi dalam pelayanan kerohanian. Berawal dari kerinduan untuk mempersatukan anak-anak Tuhan di lingkungan kampus, UKM ini berkomitmen menjadi ruang bagi para aktivis dan pengerja untuk bertumbuh bersama melalui ibadah rutin serta berbagai kegiatan spiritual yang membangun karakter. Dengan membawa visi global 'IBI Kwik Kian Gie Penuh Kemuliaan Tuhan', PD Maleakhi terus berupaya menjadi media bagi mahasiswa untuk mengasah kepemimpinan rohani sekaligus memberikan kontribusi positif bagi lingkungan kampus melalui nilai-nilai kasih dan dedikasi.",
+            "vision": "Menjadi komunitas yang berkenan di dalam kristus dan menjadi rumah yang tepat bagi sesama. ",
+            "mission": [
+                "Memperkuat hubungan dengan Tuhan.",
+                "Membangun kesatuan di dalam kasih,pikiran dan tujuan dalam Kristus.",
+                "Menyebarkan kasih Tuhan di dalam segala hal."
+            ],
+            "events": [
+                {
+                    "title": "Friday Service",
+                    "date": "17 April 2026",
+                    "type": "Internal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "Maleakhi Berbagi 2026: AGAPE Kasih yang Melayani Dengan Tulus dan Tanpa Syarat",
+                    "date": "28 Maret 2026",
+                    "type": "",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "PD Maleakhi Christmas Service Renew",
+                    "date": "7 Januari 2026",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "WWF: Wednesday, Worship, dan Fellowship",
+                    "date": "17 Desember 2025",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Karin Clarisa Putri",
+            "schedule": "Jumat, Pukul 12.15 WIB",
+            "location": "Ruang B7 & B8 IBI KKG",
+            "instagram": "pdmaleakhi",
+            "members": 28,
+            "link": "#"
+        },
+        {
+            "name": "Kerohanian Katolik - KMK",
+            "category": "Kerohanian, Kemasyarakatan dan Sosial",
+            "image": "https:\/\/images.unsplash.com\/photo-1528357136257-0c25517acfea?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "cover_image": "images\/badminton-cover.jpg",
+            "description": "KMK Kwik Kian Gie hadir sebagai wadah strategis bagi mahasiswa Katolik di IBI Kwik Kian Gie untuk memperdalam nilai-nilai spiritual dan mempererat tali persaudaraan melalui berbagai kegiatan kerohanian yang dinamis. Berada di bawah naungan Senat Mahasiswa serta bimbingan profesional dari PMKAJ Unit Timur dan Campus Ministry, organisasi ini berkomitmen menciptakan lingkungan kampus yang penuh iman melalui pelayanan Karismatik Katolik yang inklusif. Dengan dukungan pendampingan yang terstruktur, KMK Kwik Kian Gie menjadi media utama bagi mahasiswa untuk mengasah kepemimpinan rohani dan kontribusi sosial, sekaligus menyelaraskan kehidupan akademis dengan nilai-nilai luhur keagamaan demi membentuk pribadi yang berintegritas.",
+            "vision": "Merangkul semua mahasiswa IBII Kwik Kian Gie untuk mewujudkan, menegakkan, menjaga, serta melestarikan nilai-nilai kemanusiaan, kekeluargaan, dan demokrasi dengan dasar iman Katolik yang teguh sehingga dapat bersama-sama membangun dan memajukan lingkungan masyarakat pada umumnya dan lingkungan IBII Kwik Kian Gie pada khususnya dalam naungan rahmat Tuhan Yang Maha Esa.",
+            "mission": [
+                "Menumbuhkan rasa tanggung jawab dan profesionalisme anggota UKM kerohanian KMK sehingga dapat meningkatkan potensi anggota dan memajukan UKM Kerohanian KMK sebagai suatu unit organisasi dengan kegiatan internal maupun eksternal kampus yang telah disusun dalam bentuk program kerja tahunan dari kepengurusan suatu periode."
+            ],
+            "events": [
+                {
+                    "title": "Catholic Connect: When We Gather, God is There",
+                    "date": "26 - 28 April 2026",
+                    "type": "Eksternal",
+                    "image": "images\/badminton-event1.png"
+                },
+                {
+                    "title": "HOMEWARD: A Journey Back To The One Who Never Left",
+                    "date": "19 April 2026",
+                    "type": "Eksternal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "KMK Christmas Party: Light Leads To HIm",
+                    "date": "16 Januari 2026",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "KMK Games Part",
+                    "date": "19 Desember 2025",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Rosario Bersama",
+                    "date": "31 Oktober 2025",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "Fellowship KMK: Faith Over Fear",
+                    "date": "10 Oktober 2025",
+                    "type": "Internal",
+                    "image": "https:\/\/images.unsplash.com\/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Clement",
+            "schedule": "",
+            "location": "",
+            "instagram": "kmk.kkg",
+            "members": 22,
+            "link": "#"
+        }
+    ],
+    "hima": [
+        {
+            "name": "IMAJI",
+            "category": "Ilmu Komunikasi",
+            "image": "images/logo-imaji.jpg",
+            "cover_image": "images/hima-manajemen-cover.jpg",
+            "description": "IMAJI hadir sebagai wadah strategis bagi mahasiswa Ilmu Komunikasi di IBI Kwik Kian Gie untuk menyelaraskan penguasaan teori komunikasi dengan pengembangan kompetensi praktis di industri kreatif. Organisasi ini berkomitmen memfasilitasi aktualisasi diri mahasiswa dalam menggali potensi inovatif di bidang media, penyiaran, hingga hubungan masyarakat yang relevan dengan dinamika informasi saat ini. Melalui semangat kolaborasi dan profesionalisme, HIMABI menjadi sarana utama untuk memperluas jaringan serta meraih prestasi membanggakan yang mampu mengharumkan nama almamater di bidang ilmu komunikasi.",
+            "vision": "?",
+            "mission": [
+                "?",
+                "?",
+                "?"
+            ],
+            "events": [
+                {
+                    "title": "IMAJI x HIMAKOM UKI Studi Banding",
+                    "date": "22 Mei 2026",
+                    "type": "Internal",
+                    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "HealthComms x #ManisSecukupnya",
+                    "date": "15 Januari 2026",
+                    "type": "Internal",
+                    "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "IMAJI IBI KKG x Soka Gakkai Indonesia",
+                    "date": "?",
+                    "type": "Internal",
+                    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                },
+                {
+                    "title": "WelCOMMing Day IMAJI 2025",
+                    "date": "17 Oktober 2025",
+                    "type": "Internal",
+                    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80"
+                }
+            ],
+            "leader": "Wulan Hestia",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "imaji.ibikkg",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "HIMABI",
+            "category": "Administrasi Bisnis",
+            "image": "images/hima-akuntansi.jpg",
+            "cover_image": "images/hima-akuntansi-cover.jpg",
+            "description": "HIMABI hadir sebagai wadah strategis bagi mahasiswa Bisnis di IBI Kwik Kian Gie untuk menyelaraskan wawasan akademis dengan pengembangan kompetensi profesional di dunia usaha. Organisasi ini berkomitmen memfasilitasi aktualisasi diri mahasiswa dalam menggali potensi kepemimpinan, pola pikir kewirausahaan, serta kemampuan manajerial yang inovatif guna menjawab tantangan industri yang kian dinamis. Melalui semangat sinergi dan kolaborasi, HIMABI menjadi sarana utama untuk memperluas jaringan profesional serta meraih prestasi membanggakan yang mampu mengharumkan nama almamater di bidang bisnis dan manajemen.",
+            "vision": "Menjadi Organisasi Kemahasiswaan yang mencintai almamater Kwik Kian Gie School of Business, berjiwa wirausaha, kreatif dan bersifat kekeluargaan, di bidang bisnis yang terbaik, kompeten dan profesional di Indonesia.",
+            "mission": [
+                "Membangun Perilaku Organisasi Kemahasiswaan yang solid dan terintegrasi dengan Program Studi Ilmu Administrasi Bisnis Kwik Kian Gie School of Business serta.",
+                "Menghasilkan Pelaksanaan Program Kerja yang berorientasi pada kepentingan Peningkatan Kompetensi Sumberdaya Kemahasiswaan dan Pemutakhiran Program Studi Administrasi Bisnis serta Program Pendidikan Nasional."
+            ],
+            "events": [
+                {
+                    "title": "ENTREFEST 6.0 Coming",
+                    "date": "16-17 September 2026",
+                    "type": "Internal",
+                    "image": "images/badminton-event1.jpg"
+                },
+                {
+                    "title": "HIMABI POTLUCK DAY",
+                    "date": "?",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Talk Show ENTREFEST 5.0: Trailblazer of Tomorrow Future Enterpreneurs",
+                    "date": "15 Mei 2025",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Talk Show ENTREFEST 4.0: Innovative Solution to Build a Green Future",
+                    "date": "15-16 Mei 2024",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                }
+            ],
+            "leader": "Elisa",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "himabi_ksb",
+            "members": 46,
+            "link": "#"
+        },
+        {
+            "name": "Informatics Community",
+            "category": "SITI",
+            "image": "images/hima-si.jpg",
+            "cover_image": "images/hima-si-cover.jpg",
+            "description": "Informatics Community hadir sebagai wadah strategis bagi mahasiswa Sistem Informasi dan Teknologi Informasi di IBI Kwik Kian Gie untuk mengembangkan kompetensi kepemimpinan sekaligus penguasaan Kteknologi terkini. Organisasi ini berkomitmen memfasilitasi aktualisasi diri mahasiswa guna menggali potensi kreatif dan inovatif yang relevan dengan dinamika era digital. Melalui semangat sinergi dan kolaborasi, Informatics Community menjadi sarana utama untuk memperluas cakrawala pengetahuan serta meraih prestasi membanggakan yang mampu mengharumkan nama almamater di bidang teknologi informasi.",
+            "vision": "Mewujudkan HIMA Informatics Community sebagai organisasi yang aktif, inovatif, dan solutif dalam mengembangkan potensi mahasiswa serta memberikan kontribusi nyata di bidang teknologi dan masyarakat. ",
+            "mission": [
+                "Menjadi wadah aspirasi dan pengembangan diri bagi mahasiswa Informatika dalam aspek akademik maupun non-akademik.",
+                "Mendorong peningkatan kompetensi anggota melalui pelatihan soft skill dan hard skill berbasis tren terkini di bidang teknologi.",
+                "Membangun kultur organisasi yang profesional, inklusif, dan kolaboratif baik internal maupun lintas organisasi.",
+                "Mengembangkan minat riset dan inovasi mahasiswa sebagai bentuk kontribusi terhadap kemajuan ilmu dan teknologi.",
+                "Menjalin relasi strategis antara mahasiswa, dosen, alumni, dan pihak eksternal guna menciptakan ekosistem yang berdaya saing tinggi."
+            ],
+            "events": [
+                {
+                    "title": "Tech & Talk: Build Apps, Build Yourself",
+                    "date": "26 November 2025",
+                    "type": "Internal",
+                    "image": "images/badminton-event1.jpg"
+                },
+                {
+                    "title": "Wadhawani: Preparing Job Ready Talent with Employability Jobready",
+                    "date": "4 Juni 2025",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "AORUS Campus Tour 2024",
+                    "date": "16 - 17 Desember 2024",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Open Tech Summit Jakarta 2024 at Atma Jaya University",
+                    "date": "25 - 26 November 2024",
+                    "type": "Eksternal",
+                    "image": "images/event2-bola.png"
+                }
+            ],
+            "leader": "Lee HyoRie",
+            "schedule": "Rabu, 13.15 WIB",
+            "location": "Gedung Kampus Kwik Kian Gie",
+            "instagram": "ic.ibikkg",
+            "members": 24,
+            "link": "#"
+        },
+        {
+            "name": "ASTA",
+            "category": "Akuntansi",
+            "image": "images/hima-ti.jpg",
+            "cover_image": "images/hima-ti-cover.jpg",
+            "description": "ASTA hadir sebagai wadah strategis bagi mahasiswa Akuntansi di IBI Kwik Kian Gie untuk menyelaraskan keahlian teknis dengan pengembangan kompetensi profesional di sektor keuangan dan audit. Organisasi ini berkomitmen memfasilitasi aktualisasi diri mahasiswa dalam mengasah ketajaman analisis, integritas, serta penguasaan standar akuntansi terkini guna menjawab kebutuhan dunia kerja yang dinamis. Melalui semangat sinergi dan profesionalisme, HIMA ASTA menjadi sarana utama untuk memperluas cakrawala pengetahuan serta meraih prestasi membanggakan yang mampu mengharumkan nama almamater di bidang akuntansi.",
+            "vision": "?",
+            "mission": [
+                "?",
+                "?",
+                "?"
+            ],
+            "events": [
+                {
+                    "title": "Welcome Party: HOGWARTS BATCH 2025",
+                    "date": "21 November 2025",
+                    "type": "Internal",
+                    "image": "images/badminton-event1.jpg"
+                },
+                {
+                    "title": "Company Visit: Len Logistic Company , Museum Bank Indonesia , Bank Indonesia Pusat",
+                    "date": "10 Juli 2025",
+                    "type": "Eksternal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Company Visit: ASTA Goes To Indonesia Stock Exchange & Menara ASTRA",
+                    "date": "5 Juli 2024",
+                    "type": "Eksternal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "AHM Career Hacks x Kwik Kian Gie School of Business",
+                    "date": "22 Maret 2024",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                }
+            ],
+            "leader": "Justin",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "himaasta_kkg",
+            "members": "?",
+            "link": "#"
+        },
+        {
+            "name": "CMA",
+            "image": "images/hima-bd.jpg",
+            "category": "Manajemen",
+            "cover_image": "images/hima-bd-cover.jpg",
+            "description": "CMA hadir sebagai wadah strategis bagi mahasiswa Manajemen di IBI Kwik Kian Gie untuk mempersatukan ide dan semangat melalui forum diskusi, silaturahmi, serta pengabdian yang inklusif. Organisasi ini memiliki peran sentral sebagai penampung aspirasi sekaligus jembatan untuk mengimplementasikan ilmu pendidikan yang telah ditempuh ke dalam dunia profesional yang kompetitif. Melalui pemikiran kolektif dan semangat kolaborasi, HIMA CMA berkomitmen memfasilitasi aktualisasi diri mahasiswa guna memperluas jaringan, baik di lingkungan internal maupun dengan rekan mahasiswa manajemen dari berbagai universitas lainnya demi mengharumkan nama almamater.",
+            "vision": "Menjadikan himpunan mahasiswa manajemen institut bisnis dan informatika kwik kian gie sebagai organisasi yang aktif, bertanggung jawab, dan terpercaya.",
+            "mission": [
+                "Menjalankan tugas2 himpunan manajemen sesuai dengan fungsi manajemen.",
+                "Menciptakan hubungan komunikasi yang baik dengan mahasiswa manajemen maupun non manajemen.",
+                "Menyediakan informasi yang tepat bagi mahasiswa manajemen.",
+                "Menjalankan tugas dengan tepat dan sesuai dengan tujuan awa.",
+                "Mempererat hubungan antar mahasiswa manajemen Institut Bisnis dan Informatika Kwik Kian Gie."
+            ],
+            "events": [
+                {
+                    "title": "Happy Birthday HIMAMEN",
+                    "date": "?",
+                    "type": "Internal",
+                    "image": "images/badminton-event1.jpg"
+                },
+                {
+                    "title": "Special TalkShow Gen Z & Money: Thriving in The New Economy",
+                    "date": "8 Oktober 2025",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Seminar Sumber Daya Manusia",
+                    "date": "20 Juni 2025",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                },
+                {
+                    "title": "Public Speaking Competition: Inovasi Manajemen Bisnis di Era Digital",
+                    "date": "26 April 2024",
+                    "type": "Internal",
+                    "image": "images/event2-bola.png"
+                }
+            ],
+            "leader": "Grace Alexandra",
+            "schedule": "?",
+            "location": "?",
+            "instagram": "cma.ibikkg",
+            "members": 22,
+            "link": "#"
+        }
+    ]
+}
