@@ -337,11 +337,11 @@ export default function Home() {
           <p className="section-subtitle">Menjawab segala keraguanmu sebelum melangkah lebih jauh.</p>
         </div>
 
-        <div className="faq-container">
+        <div className="faq-container reveal">
           {faqs.map((faq, index) => {
             const isActive = faqActiveIndex === index;
             return (
-              <div key={index} className={`faq-item reveal ${isActive ? "active" : ""}`}>
+              <div key={index} className={`faq-item ${isActive ? "active" : ""}`}>
                 <div className="faq-question" onClick={() => toggleFaq(index)}>
                   <span>{faq.q}</span>
                   <div className="faq-icon">{isActive ? "-" : "+"}</div>

@@ -103,84 +103,86 @@ export default function Kontak() {
             </div>
           </div>
 
-          <div className="contact-form reveal">
-            <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 800, fontSize: "1.4rem", marginBottom: "1.5rem", color: "var(--text)" }}>
-              ✉️ Kirim Pesan ke Admin
-            </h3>
-            
-            {!isSubmitted ? (
-              <form id="contactForm" onSubmit={handleSubmit}>
-                <div className="form-group">
-                  <label htmlFor="nama">Nama Lengkap *</label>
-                  <input
-                    type="text"
-                    id="nama"
-                    name="nama"
-                    value={formData.nama}
-                    onChange={handleChange}
-                    placeholder="Masukkan nama kamu"
-                    required
-                  />
-                </div>
-                <div className="form-row">
+          <div className="reveal">
+            <div className="contact-form">
+              <h3 style={{ fontFamily: "'Outfit',sans-serif", fontWeight: 800, fontSize: "1.4rem", marginBottom: "1.5rem", color: "var(--text)" }}>
+                ✉️ Kirim Pesan ke Admin
+              </h3>
+              
+              {!isSubmitted ? (
+                <form id="contactForm" onSubmit={handleSubmit}>
                   <div className="form-group">
-                    <label htmlFor="email">Email *</label>
-                    <input
-                      type="email"
-                      id="email"
-                      name="email"
-                      value={formData.email}
-                      onChange={handleChange}
-                      placeholder="email@gmail.com"
-                      required
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label htmlFor="subjek">Subjek *</label>
+                    <label htmlFor="nama">Nama Lengkap *</label>
                     <input
                       type="text"
-                      id="subjek"
-                      name="subjek"
-                      value={formData.subjek}
+                      id="nama"
+                      name="nama"
+                      value={formData.nama}
                       onChange={handleChange}
-                      placeholder="Contoh: Masalah Login"
+                      placeholder="Masukkan nama kamu"
                       required
                     />
                   </div>
+                  <div className="form-row">
+                    <div className="form-group">
+                      <label htmlFor="email">Email *</label>
+                      <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        value={formData.email}
+                        onChange={handleChange}
+                        placeholder="email@gmail.com"
+                        required
+                      />
+                    </div>
+                    <div className="form-group">
+                      <label htmlFor="subjek">Subjek *</label>
+                      <input
+                        type="text"
+                        id="subjek"
+                        name="subjek"
+                        value={formData.subjek}
+                        onChange={handleChange}
+                        placeholder="Contoh: Masalah Login"
+                        required
+                      />
+                    </div>
+                  </div>
+                  <div className="form-group">
+                    <label htmlFor="pesan">Pesan atau Pertanyaan *</label>
+                    <textarea
+                      id="pesan"
+                      name="pesan"
+                      rows="5"
+                      value={formData.pesan}
+                      onChange={handleChange}
+                      placeholder="Jelaskan secara detail apa yang bisa kami bantu..."
+                      required
+                    ></textarea>
+                  </div>
+                  <button type="submit" className="btn-primary" style={{ width: "100%", justifyContent: "center", display: "flex" }}>
+                    🚀 Kirim Pesan
+                  </button>
+                </form>
+              ) : (
+                <div
+                  id="successMsg"
+                  style={{
+                    display: "block",
+                    padding: "1.2rem",
+                    background: "rgba(16,185,129,.15)",
+                    border: "1px solid rgba(16,185,129,.3)",
+                    borderRadius: "12px",
+                    textAlign: "center",
+                    color: "#059669",
+                    fontWeight: 600
+                  }}
+                >
+                  ✅ Pesan Berhasil Terkirim!<br />Admin akan segera merespons melalui email kamu.
                 </div>
-                <div className="form-group">
-                  <label htmlFor="pesan">Pesan atau Pertanyaan *</label>
-                  <textarea
-                    id="pesan"
-                    name="pesan"
-                    rows="5"
-                    value={formData.pesan}
-                    onChange={handleChange}
-                    placeholder="Jelaskan secara detail apa yang bisa kami bantu..."
-                    required
-                  ></textarea>
-                </div>
-                <button type="submit" className="btn-primary" style={{ width: "100%", justifyContent: "center", display: "flex" }}>
-                  🚀 Kirim Pesan
-                </button>
-              </form>
-            ) : (
-              <div
-                id="successMsg"
-                style={{
-                  display: "block",
-                  padding: "1.2rem",
-                  background: "rgba(16,185,129,.15)",
-                  border: "1px solid rgba(16,185,129,.3)",
-                  borderRadius: "12px",
-                  textAlign: "center",
-                  color: "#059669",
-                  fontWeight: 600
-                }}
-              >
-                ✅ Pesan Berhasil Terkirim!<br />Admin akan segera merespons melalui email kamu.
-              </div>
-            )}
+              )}
+            </div>
           </div>
         </div>
       </section>
