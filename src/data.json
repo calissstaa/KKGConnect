@@ -86,7 +86,7 @@
             "schedule": "Rabu, 16.00 - 19.00 WIB",
             "location": "Lapangan Kampus",
             "instagram": "ifcbola",
-            "members": "?",
+            "members": "14",
             "link": "#"
         },
         {
@@ -153,10 +153,10 @@
                 }
             ],
             "leader": "Sergie Aprilius",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Gedung Kampus Kwik Kian Gie",
             "instagram": "ksb_esports",
-            "members": "?",
+            "members": "37",
             "link": "#"
         },
         {
@@ -201,11 +201,11 @@
                 }
             ],
             "leader": "Brennan Cheng",
-            "schedule": "Sebulan sekali",
+            "schedule": "Tiga bulan sekali",
             "location": "Di luar Kampus",
             "instagram": "ukmbandkkg",
             "members": 25,
-            "link": "#"
+            "link": "https://wa.me/628888570257"
         },
         {
             "name": "Dance",
@@ -238,18 +238,21 @@
             "schedule": "Rabu & Jumat",
             "location": "Gedung Kampus",
             "instagram": "ksb_dancecrew",
-            "members": "?",
+            "members": "20",
             "link": "#"
         },
         {
             "name": "Bimover",
             "category": "Minat dan Bakat",
             "image": "images/bimover.jpg",
-            "cover_image": "images\/futsal-cover.jpg",
+            "cover_image": "images/bimover-cover.jpeg",
             "description": "BIMOVER atau IBIKKG Mountain Rover hadir sebagai wadah strategis bagi mahasiswa IBI Kwik Kian Gie untuk menyalurkan minat pada olahraga alam bebas dan aktivitas luar ruangan yang menantang. Sebagai organisasi tertua di kampus yang berdiri sejak 1989, BIMOVER tidak hanya berfokus pada ketahanan fisik dan bakat non-akademis, tetapi juga berkomitmen membentuk karakter mahasiswa yang tangguh, mandiri, dan peduli lingkungan melalui disiplin petualangan yang profesional. Dengan menjunjung tinggi nilai historis dan semangat persaudaraan, organisasi ini menjadi media bagi mahasiswa untuk mengasah kepemimpinan serta mengharumkan nama almamater melalui dedikasi nyata di bidang kepencintaalaman.",
-            "vision": "?",
+            "vision": "Mengembangkan BIMOVER yang mengedepankan nilai Friendship&Brotherhood. Serta aktif dalam membanggun anggota yang beretika, berkualitas, profesional, berani dan bertanggung jawab.",
             "mission": [
-                "?"
+                "Mengembangkan kemampuan anggota tetap baik secara berorganisasi maupun divisi yang dimintai.",
+                "Mempererat tali persaudaraan antar sesama Anggota Tetap",
+                "Mewujudkan BIMOVER MAPALA yang berprestasi",
+                "Mengadakan kegiatan ekternal yang berdampak positif terhadap lingkungan"
             ],
             "events": [
                 {
@@ -278,11 +281,11 @@
                 }
             ],
             "leader": "Marco Marcelino",
-            "schedule": "?",
-            "location": "Gedung Kampus",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Ruangan Sekretariat BIMOVER",
             "instagram": "bimover_89",
-            "members": "?",
-            "link": "#"
+            "members": "10",
+            "link": "instagram.com/bimover_89"
         },
         {
             "name": "FOBI",
@@ -323,10 +326,10 @@
                 }
             ],
             "leader": "Aditya Prasetyo",
-            "schedule": "?",
+            "schedule": "Rapat tergantung kegiatan",
             "location": "Di luar Kampus",
             "instagram": "fobifamily",
-            "members": "?",
+            "members": "21",
             "link": "#"
         },
         {
@@ -420,10 +423,10 @@
                 }
             ],
             "leader": "Michael Nicholas Chandra",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Gedung Kampus Kwik Kian Gie",
             "instagram": "kaf.ibikkg",
-            "members": "?",
+            "members": "23",
             "link": "#"
         },
         {
@@ -459,17 +462,17 @@
                 }
             ],
             "leader": "Josua Nikodemus Ambarita",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Setiap Hari Rabu, 13.00 WIB",
+            "location": "Hall D Kampus IBI Kwik Kian Gie",
             "instagram": "ims_98",
-            "members": 34,
-            "link": "#"
+            "members": 29,
+            "link": "https://wa.me/6285862853144"
         },
         {
             "name": "Kerohanian Islam - Rohis",
             "category": "Kerohanian, Kemasyarakatan dan Sosial",
             "image": "images/rohis.jpg",
-            "cover_image": "images\/badminton-cover.jpg",
+            "cover_image": "images/rohis-cover.jpeg",
             "description": "Rohis Al-Ashri hadir sebagai wadah strategis bagi mahasiswa muslim IBI Kwik Kian Gie untuk menyelaraskan kegiatan keagamaan dengan pengembangan bakat yang kreatif demi memajukan syiar Islam. Organisasi ini berkomitmen membangun generasi muda yang inovatif dengan menyediakan ruang kolaborasi yang positif guna memperdalam nilai-nilai spiritual sekaligus mengasah potensi diri. Melalui berbagai aktivitas keagamaan yang dinamis, Rohis Al-Ashri menjadi sarana utama bagi mahasiswa untuk berkontribusi nyata bagi agama sekaligus mempererat tali persaudaraan di lingkungan kampus.",
             "vision": "Mewujudkan generasi muda yang kreatif, beriman, dan berilmu. Serta meningkatkan ukhuwah sesama mahasiswa\/I muslim Kampus IBI KKG",
             "mission": [
@@ -506,17 +509,17 @@
                 }
             ],
             "leader": "Sangjao Tinodungan",
-            "schedule": "",
-            "location": "",
+            "schedule": "Piket Setiap Hari Kamis",
+            "location": "Ruangan Sekretariat Rohis",
             "instagram": "rohisalashri_kkg",
-            "members": 18,
-            "link": "#"
+            "members": 17,
+            "link": "https://wa.me/6285141539910"
         },
         {
             "name": "Kerohanian Buddha - Dharma Artha",
             "category": "Kerohanian, Kemasyarakatan dan Sosial",
             "image": "images/dharma.jpg",
-            "cover_image": "images\/badminton-cover.jpg",
+            "cover_image": "images\/dharma-cover.jpeg",
             "description": " Dharma-Artha hadir sebagai wadah organisasi mandiri bagi keluarga mahasiswa Buddhis di IBI Kwik Kian Gie yang bersifat universal tanpa bernaung pada aliran atau sekte tertentu. Berdiri sejak 18 Maret 1991, UKM ini berkomitmen menjadi ruang bagi mahasiswa untuk memperdalam nilai-nilai spiritual dan mempererat tali persaudaraan dalam lingkungan kampus yang inklusif. Dengan sejarah panjang yang bermula dari nama Keluarga Mahasiswa Buddhis (KMB), Dharma-Artha terus berupaya menjadi sarana aktualisasi diri yang membantu mahasiswa membangun karakter luhur serta menjaga harmoni melalui kegiatan-kegiatan keagamaan yang edukatif dan non-politik",
             "vision": "Memfasilitasi setiap anggota Dharma-Artha dalam upaya untuk mengembangkan dan mengaplikasikan Buddha Dharma dalam kehidupan sehari-hari.",
             "mission": [
@@ -549,12 +552,12 @@
                     "image": "images/dharma-event4.png"
                 }
             ],
-            "leader": "Devi Chyntia",
-            "schedule": "Kebaktian rutin",
-            "location": "Gedung Kampus",
+            "leader": "Devi Chintya",
+            "schedule": "Kebaktian rutin Jumat, Pukul 13.00 WIB",
+            "location": "Ruang B3 & B4 IBI KKG",
             "instagram": "dharmaarthaksb",
-            "members": "?",
-            "link": "#"
+            "members": "20",
+            "link": "https://wa.me/6287884843592"
         },
         {
             "name": "Kerohanian Protestan - PD Maleakhi",
@@ -605,7 +608,7 @@
             "name": "Kerohanian Katolik - KMK",
             "category": "Kerohanian, Kemasyarakatan dan Sosial",
             "image": "images/kmk.jpg",
-            "cover_image": "images\/badminton-cover.jpg",
+            "cover_image": "images/kmk-cover.jpeg",
             "description": "KMK Kwik Kian Gie hadir sebagai wadah strategis bagi mahasiswa Katolik di IBI Kwik Kian Gie untuk memperdalam nilai-nilai spiritual dan mempererat tali persaudaraan melalui berbagai kegiatan kerohanian yang dinamis. Berada di bawah naungan Senat Mahasiswa serta bimbingan profesional dari PMKAJ Unit Timur dan Campus Ministry, organisasi ini berkomitmen menciptakan lingkungan kampus yang penuh iman melalui pelayanan Karismatik Katolik yang inklusif. Dengan dukungan pendampingan yang terstruktur, KMK Kwik Kian Gie menjadi media utama bagi mahasiswa untuk mengasah kepemimpinan rohani dan kontribusi sosial, sekaligus menyelaraskan kehidupan akademis dengan nilai-nilai luhur keagamaan demi membentuk pribadi yang berintegritas.",
             "vision": "Merangkul semua mahasiswa IBII Kwik Kian Gie untuk mewujudkan, menegakkan, menjaga, serta melestarikan nilai-nilai kemanusiaan, kekeluargaan, dan demokrasi dengan dasar iman Katolik yang teguh sehingga dapat bersama-sama membangun dan memajukan lingkungan masyarakat pada umumnya dan lingkungan IBII Kwik Kian Gie pada khususnya dalam naungan rahmat Tuhan Yang Maha Esa.",
             "mission": [
@@ -639,10 +642,10 @@
             ],
             "leader": "Clement",
             "schedule": "Jumat, Pukul 13.00 WIB",
-            "location": "Ruang B4 & B5 IBI KKG",
+            "location": "Ruang B5 & B6 IBI KKG",
             "instagram": "kmk.kkg",
             "members": 22,
-            "link": "#"
+            "link": "https://wa.me/6281413517988"
         },
         {
             "name": "Sosial - BOSOS",
@@ -730,10 +733,10 @@
                 }
             ],
             "leader": "Wulan Hestia",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Gedung Kampus Kwik Kian Gie",
             "instagram": "imaji.ibikkg",
-            "members": "?",
+            "members": "25",
             "link": "#"
         },
         {
@@ -774,8 +777,8 @@
                 }
             ],
             "leader": "Elisa",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Gedung Kampus Kwik Kian Gie",
             "instagram": "himabi_ksb",
             "members": 46,
             "link": "#"
@@ -866,17 +869,17 @@
                 }
             ],
             "leader": "Justin",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Gedung Kampus Kwik Kian Gie",
             "instagram": "himaasta_kkg",
-            "members": "?",
+            "members": "22",
             "link": "#"
         },
         {
             "name": "CMA",
             "image": "images/cma.jpg",
             "category": "Manajemen",
-            "cover_image": "images/hima-bd-cover.jpg",
+            "cover_image": "images/cma-cover.jpeg",
             "description": "CMA hadir sebagai wadah strategis bagi mahasiswa Manajemen di IBI Kwik Kian Gie untuk mempersatukan ide dan semangat melalui forum diskusi, silaturahmi, serta pengabdian yang inklusif. Organisasi ini memiliki peran sentral sebagai penampung aspirasi sekaligus jembatan untuk mengimplementasikan ilmu pendidikan yang telah ditempuh ke dalam dunia profesional yang kompetitif. Melalui pemikiran kolektif dan semangat kolaborasi, HIMA CMA berkomitmen memfasilitasi aktualisasi diri mahasiswa guna memperluas jaringan, baik di lingkungan internal maupun dengan rekan mahasiswa manajemen dari berbagai universitas lainnya demi mengharumkan nama almamater.",
             "vision": "Menjadikan himpunan mahasiswa manajemen institut bisnis dan informatika kwik kian gie sebagai organisasi yang aktif, bertanggung jawab, dan terpercaya.",
             "mission": [
@@ -913,11 +916,11 @@
                 }
             ],
             "leader": "Grace Alexandra",
-            "schedule": "?",
-            "location": "?",
+            "schedule": "Rapat tergantung kegiatan",
+            "location": "Ruang B4 & B5 IBI KKG",
             "instagram": "cma.ibikkg",
             "members": 22,
-            "link": "#"
+            "link": "https://wa.me/6285281498638"
         }
     ]
 }
